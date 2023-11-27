@@ -1,0 +1,16 @@
+{
+  "name": "setup-js-backend",
+  "version": "1.0.0",
+  "description": "A backend setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Javascript",
+    "chai",
+    "code"
+  ],
+  "author": "Nouman Nawaz",
+  "license": "ISC"
+}
